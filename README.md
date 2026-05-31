@@ -6,14 +6,14 @@ Vengo de una trayectoria previa en investigación científica, lo que me ha apor
 
 ## Tecnologías principales
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite
-**Backend:** Java, Node.js, NestJS, Express, Django, Python, Spring Boot
-**Bases de datos:** SQL, PL/SQL, PostgreSQL, MySQL, MariaDB, SQLite
-**APIs:** REST, JWT, roles, arquitectura cliente-servidor
-**Herramientas:** Git, GitHub, Docker, Docker Compose, Kubernetes
-**Testing:** Jest, Vitest, Testing Library, Playwright
-**Datos y análisis:** Excel, SQL, R, SPSS, GraphPad
-**Cloud / DevOps:** fundamentos de AWS, CI/CD, GitHub Actions
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite
+- **Backend:** Java, Node.js, NestJS, Express, Django, Python, Spring Boot
+- **Bases de datos:** SQL, PL/SQL, PostgreSQL, MySQL, MariaDB, SQLite
+- **APIs:** REST, JWT, roles, arquitectura cliente-servidor
+- **Herramientas:** Git, GitHub, Docker, Docker Compose, Kubernetes
+- **Testing:** Jest, Vitest, Testing Library, Playwright
+- **Datos y análisis:** Excel, SQL, R, SPSS, GraphPad
+- **Cloud / DevOps:** fundamentos de AWS, CI/CD, GitHub Actions
 
 ## Proyectos destacados
 
